@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**hanii373/hanii373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student pursuing dual Bachelor's degrees at Université Paul Sabatier Toulouse III and French University of Armenia, with additional training at 42 Yerevan — a rigorous, project-based engineering school focused on C programming, algorithms, and systems thinking.
 
-Here are some ideas to get you started:
+💡 My main interests lie in software engineering and machine learning. I enjoy working close to the fundamentals and understanding how systems operate at a low level, which is why I often work with C, C++, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+🔐 Machine Learning–based Intrusion Detection System (IDS)
+Network traffic classification using the NSL-KDD dataset
+Tech stack: Python, Scikit-learn
+
+🛡 Intrusion Prevention System (IPS) (currently in development)
+A system focused on detecting and blocking malicious network activity
