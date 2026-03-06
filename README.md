@@ -1,14 +1,46 @@
-👋 About Me
+# 👋 Hi, I'm a Computer Science Student
 
-🎓 Computer Science student pursuing dual Bachelor's degrees at Université Paul Sabatier Toulouse III and French University of Armenia, with additional training at 42 Yerevan — a rigorous, project-based engineering school focused on C programming, algorithms, and systems thinking.
+🎓 I am pursuing **dual Bachelor's degrees** in Computer Science at  
+- Université Paul Sabatier Toulouse III  
+- French University of Armenia  
 
-💡 My main interests lie in software engineering and machine learning. I enjoy working close to the fundamentals and understanding how systems operate at a low level, which is why I often work with C, C++, and Python.
+I also receive additional training at **42 Yerevan**, a rigorous project-based engineering school focused on **C programming, algorithms, and systems thinking**.
 
-🚀 Projects
+---
 
-🔐 Machine Learning–based Intrusion Detection System (IDS)
-Network traffic classification using the NSL-KDD dataset
-Tech stack: Python, Scikit-learn
+## 💡 Interests
 
-🛡 Intrusion Prevention System (IPS) (currently in development)
-A system focused on detecting and blocking malicious network activity
+My main interests include:
+
+- 💻 Software Engineering  
+- 🤖 Machine Learning  
+- 🔐 Cybersecurity  
+
+I enjoy working close to the **fundamentals of computing** and understanding how systems operate at a low level. Because of this, I often work with:
+
+**C • C++ • Python**
+
+---
+
+## 🚀 Projects
+
+### 🔐 Machine Learning–based Intrusion Detection System (IDS)
+Network traffic classification using the **NSL-KDD dataset**.
+
+**Tech stack:**  
+`Python` • `Scikit-learn`
+
+---
+
+### 🛡 Intrusion Prevention System (IPS) *(Currently in development)*
+
+Developing a system focused on **detecting and blocking malicious network activity**.
+
+---
+
+## 📚 Focus Areas
+
+- Machine Learning for Security  
+- Network Intrusion Detection  
+- Systems Programming  
+- Data-driven Problem Solving
