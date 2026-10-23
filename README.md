@@ -1,10 +1,12 @@
-# 👋 Hi, I'm a Computer Science Student
+# 👋 Hi, I'm an ML QA Engineer at Krisp
 
-🎓 I am pursuing **dual Bachelor's degrees** in Computer Science at  
+💼 I currently work as a **Machine Learning QA Engineer** at **[Krisp](https://krisp.ai)**, where I help test and validate AI-powered voice and audio technologies, making sure ML models are reliable, accurate, and production-ready.
+
+🎓 I hold **dual Bachelor's degrees** in Computer Science from  
 - Université Paul Sabatier Toulouse III  
 - French University of Armenia  
 
-I also receive additional training at **42 Yerevan**, a rigorous project-based engineering school focused on **C programming, algorithms, and systems thinking**.
+I also trained at **42 Yerevan**, a rigorous project-based engineering school focused on **C programming, algorithms, and systems thinking**.
 
 ---
 
@@ -40,6 +42,7 @@ Developing a system focused on **detecting and blocking malicious network activi
 
 ## 📚 Focus Areas
 
+- ML Model Testing & Quality Assurance  
 - Machine Learning for Security  
 - Network Intrusion Detection  
 - Systems Programming  
